@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ui.py
+web: sh setup.sh && python detect_mask_video.py
